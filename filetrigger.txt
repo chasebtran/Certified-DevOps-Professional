@@ -1,0 +1,1 @@
+trigger teamcity to automatically trigger the build by adding this file
